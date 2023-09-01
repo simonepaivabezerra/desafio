@@ -1,0 +1,30 @@
+html{margin: auto;
+    background-color: rgb(203, 230, 55);
+}
+
+    h4{
+text-align: center;
+border: 2px rgb(176, 245, 64);
+font-size: 50px;
+text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+
+    img{
+        width: 80%;
+        border: 1px;
+        width: 80%;
+    }
+    #titulo{
+        color: rgb(23, 23, 24);
+        padding-top: 5%;
+        font-size: 60px;
+     }
+     #imagem-fundo{
+        background: url("fundo");
+        color: rgb(221, 235, 25);
+
+     }
